@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Dr. A. K. M. Mahfuzul Alam",
+        "qualifications": ["MBBS", "FCPS (Orthopedics)"],
+        "position": "Consultant, Orthopedics",
+        "institution": "Chattogram Medical College",
+        "room_no": "401",
+        "serial": "Call our hotline",
+        "time": "4.30 pm to 7.30 pm (Only Sat & Tue)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrASMJahed.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. Mohammad Abdullah",
+        "qualifications": ["MBBS", "D.Ortho"],
+        "position": "Associate Professor, Orthopedics",
+        "institution": "CMCH",
+        "room_no": "402",
+        "serial": "Call our Hotline",
+        "time": "6pm to 9pm (Sun, Tue, Thurs)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrMainuddin-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. M. R. Sayed",
+        "qualifications": ["MBBS", "MS (Orthopedics)", "DNB (Orthopedics)"],
+        "position": "Assistant Professor, Orthopedics",
+        "room_no": "403",
+        "serial": "Call our Hotline",
+        "time": "5pm to 8pm (Sat, Mon, Wed)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrRezaulKarim-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. M. H. Munir",
+        "qualifications": ["MBBS", "FCPS (Orthopedics)", "MS (Trauma Surgery)"],
+        "position": "Consultant, Orthopedics",
+        "room_no": "404",
+        "serial": "Call our Hotline",
+        "time": "7pm to 9pm (Sat to Thu)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrSaifuddinMahmud-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. A. H. Raza",
+        "qualifications": ["MBBS (DU)", "MS (Orthopedics)", "Fellowship in Joint Replacement"],
+        "position": "Consultant, Orthopedics",
+        "room_no": "405",
+        "serial": "01323-934631",
+        "time": "3pm to 6pm (Fri off)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/11/Dr-Mohammd-Farhad-Medicine.jpg?fit=500%2C500&ssl=1"
+    },
+    {
+        "name": "Dr. M. K. Shams",
+        "qualifications": ["MBBS", "FCPS (Orthopedics)", "Fellowship in Spine Surgery"],
+        "position": "Consultant, Orthopedics",
+        "room_no": "406",
+        "serial": "Call our Hotline",
+        "time": "Sat to Thu (6pm to 9pm) (Mon & Fri OFF)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrIstiakAhmed-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. S. S. Faruque",
+        "qualifications": ["MBBS", "D.Ortho", "MS (Orthopedics)"],
+        "position": "Consultant, Orthopedics, CMC",
+        "room_no": "407",
+        "serial": "Call our hotline",
+        "time": "6 pm -9 pm (Thursday Off)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2021/02/Dr-Sumon-Sarkar.jpg?fit=600%2C600&ssl=1"
+    }
+]

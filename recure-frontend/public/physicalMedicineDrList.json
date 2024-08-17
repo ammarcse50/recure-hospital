@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Dr. A. H. Karim",
+        "qualifications": ["MBBS", "MD (Physical Medicine)"],
+        "position": "Consultant, Physical Medicine",
+        "institution": "Chattogram Medical College",
+        "room_no": "501",
+        "serial": "Call our hotline",
+        "time": "4.00 pm to 7.00 pm (Only Mon & Fri)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrASMJahed.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. Mohammad Akram",
+        "qualifications": ["MBBS", "FCPS (Physical Medicine)"],
+        "position": "Associate Professor, Physical Medicine",
+        "institution": "CMCH",
+        "room_no": "502",
+        "serial": "Call our Hotline",
+        "time": "5pm to 8pm (Tue, Thu, Sat)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrMainuddin-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. Rezaul Karim",
+        "qualifications": ["MBBS", "MD (Physical Medicine)", "DPM"],
+        "position": "Assistant Professor, Physical Medicine",
+        "room_no": "503",
+        "serial": "Call our Hotline",
+        "time": "5pm to 7pm (Mon, Wed, Fri)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrRezaulKarim-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. Saifuddin Chowdhury",
+        "qualifications": ["MBBS", "DPM", "FCPS (Physical Medicine)"],
+        "position": "Consultant, Physical Medicine",
+        "room_no": "504",
+        "serial": "Call our Hotline",
+        "time": "6pm to 9pm (Sun to Thu)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrSaifuddinMahmud-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. A. F. Nizam",
+        "qualifications": ["MBBS", "MD (Physical Medicine)", "Fellowship in Rehabilitation"],
+        "position": "Consultant, Physical Medicine",
+        "room_no": "505",
+        "serial": "01323-934631",
+        "time": "3pm to 6pm (Fri off)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/11/Dr-Mohammd-Farhad-Medicine.jpg?fit=500%2C500&ssl=1"
+    },
+    {
+        "name": "Dr. M. S. Hasan",
+        "qualifications": ["MBBS", "FCPS (Physical Medicine)", "DPM"],
+        "position": "Consultant, Physical Medicine",
+        "room_no": "506",
+        "serial": "Call our Hotline",
+        "time": "Sat to Thu (6pm to 9pm) (Mon & Fri OFF)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrIstiakAhmed-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. S. R. Faruque",
+        "qualifications": ["MBBS", "MD (Physical Medicine)", "Diploma in Sports Medicine"],
+        "position": "Consultant, Physical Medicine, CMC",
+        "room_no": "507",
+        "serial": "Call our hotline",
+        "time": "6 pm -9 pm (Thursday Off)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2021/02/Dr-Sumon-Sarkar.jpg?fit=600%2C600&ssl=1"
+    }
+]

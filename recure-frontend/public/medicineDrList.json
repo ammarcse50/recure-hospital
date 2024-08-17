@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Dr. A. S. M. Zahed",
+        "qualifications": ["MBBS", "FCPS (Medicine)"],
+        "position": "Associate Professor, Medicine",
+        "institution": "Chattogram Medical College",
+        "room_no": "308",
+        "serial": "Call our hotline",
+        "time": "5.30 pm to 8 pm (Only Sun & Wed)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrASMJahed.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. Mohammad Moinuddin Chowdhury",
+        "qualifications": ["MBBS", "FCPS (Medicine)"],
+        "position": "Assistant Professor, CMCH",
+        "room_no": "303",
+        "serial": "Call our Hotline",
+        "time": "5pm to 9pm (Sat,Mon,Wednes)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrMainuddin-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. Mohammad Rezaul Karim",
+        "qualifications": ["MBBS", "BCS (Health)", "MD (Internal Medicine)"],
+        "position": "Assistant Professor, Medicine",
+        "room_no": "227",
+        "serial": "Call our Hotline",
+        "time": "5pm to 6pm (Sat,Mon,Thurs)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrRezaulKarim-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. Saifuddin Mahmud",
+        "qualifications": ["MBBS", "BCS (Health)", "FCPS (Medicine)"],
+        "position": "Consultant, Medicine",
+        "room_no": "320",
+        "serial": "Call our Hotline",
+        "time": "6.30pm to 9pm (Sat to Thu)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrSaifuddinMahmud-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr Mohammad Farhad",
+        "qualifications": ["MBBS (SSMC)", "MRCP (London)"],
+        "position": "Consultant, Medicine",
+        "room_no": "207",
+        "serial": "01323-934631",
+        "time": "3pm to 6pm (Fri off)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/11/Dr-Mohammd-Farhad-Medicine.jpg?fit=500%2C500&ssl=1"
+    },
+    {
+        "name": "Dr. Istiak Ahmad",
+        "qualifications": ["MBBS", "BCS (Health)", "MCPS", "FCPS (Medicine)", "MACP (USA)"],
+        "position": "Consultant, Medicine",
+        "room_no": "306",
+        "serial": "Call our Hotline",
+        "time": "Sat to Thu (6.30pm to 9pm) (Mon & Fri OFF)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrIstiakAhmed-Medicine.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+        "name": "Dr. Suman Sarkar",
+        "qualifications": ["MBBS", "BCS (Health)", "FCPS (Medicine)"],
+        "position": "Consultant, Medicine, CMC",
+        "room_no": "324",
+        "serial": "Call our hotline",
+        "time": "6 pm -9 pm (Thursday Off)",
+        "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2021/02/Dr-Sumon-Sarkar.jpg?fit=600%2C600&ssl=1"
+    }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/cardiology-department.jpg?fit=200%2C200&ssl=1",
+    "department": "Cardiology"
+  },
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/Neprology-department.jpg?fit=200%2C200&ssl=1",
+    "department": "Neurology"
+  },
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/orthopedic-department.jpg?fit=200%2C200&ssl=1",
+    "department": "Orthopedics"
+  },
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/PEDIATRICS-department.jpg?fit=200%2C200&ssl=1",
+    "department": "Pediatrics"
+  },
+
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/GASTROENTEROLOGY-depratment.jpg?fit=200%2C200&ssl=1",
+    "department": "Gastroenterology"
+  },
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/dermatology-department.jpg?fit=200%2C200&ssl=1",
+    "department": "Dermatology"
+  },
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/obs-and-gynae-department.jpg?fit=200%2C200&ssl=1",
+    "department": "Gynecology & Obstetrics"
+  },
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/urology-department.jpg?fit=200%2C200&ssl=1",
+    "department": "Urology"
+  },
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/medicine-department.jpg?fit=200%2C200&ssl=1",
+    "department": "Medicine"
+  },
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/physical-medicine-department.jpg?fit=200%2C200&ssl=1",
+    "department": "Physical Medicine"
+  },
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/surgery-department.jpg?fit=200%2C200&ssl=1",
+    "department": "Surgery"
+  },
+  {
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/03/ent-department.jpg?fit=200%2C200&ssl=1",
+    "department": "ENT"
+  }
+]

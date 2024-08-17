@@ -1,0 +1,321 @@
+[
+  {
+    "name": "Dr. A. H. Karim",
+    "qualifications": ["MBBS", "MD (Physical Medicine)"],
+    "position": "Consultant, Physical Medicine",
+    "institution": "Chattogram Medical College",
+    "room_no": "501",
+    "serial": "Call our hotline",
+    "time": "4.00 pm to 7.00 pm (Only Mon & Fri)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrASMJahed.jpg?fit=600%2C600&ssl=1",
+    "category": "Physical Medicine"
+  },
+  {
+    "name": "Dr. Mohammad Akram",
+    "qualifications": ["MBBS", "FCPS (Physical Medicine)"],
+    "position": "Associate Professor, Physical Medicine",
+    "institution": "CMCH",
+    "room_no": "502",
+    "serial": "Call our Hotline",
+    "time": "5pm to 8pm (Tue, Thu, Sat)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrMainuddin-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Physical Medicine"
+  },
+  {
+    "name": "Dr. Rezaul Karim",
+    "qualifications": ["MBBS", "MD (Physical Medicine)", "DPM"],
+    "position": "Assistant Professor, Physical Medicine",
+    "room_no": "503",
+    "serial": "Call our Hotline",
+    "time": "5pm to 7pm (Mon, Wed, Fri)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrRezaulKarim-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Physical Medicine"
+  },
+  {
+    "name": "Dr. Saifuddin Chowdhury",
+    "qualifications": ["MBBS", "DPM", "FCPS (Physical Medicine)"],
+    "position": "Consultant, Physical Medicine",
+    "room_no": "504",
+    "serial": "Call our Hotline",
+    "time": "6pm to 9pm (Sun to Thu)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrSaifuddinMahmud-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Physical Medicine"
+  },
+  {
+    "name": "Dr. A. F. Nizam",
+    "qualifications": [
+      "MBBS",
+      "MD (Physical Medicine)",
+      "Fellowship in Rehabilitation"
+    ],
+    "position": "Consultant, Physical Medicine",
+    "room_no": "505",
+    "serial": "01323-934631",
+    "time": "3pm to 6pm (Fri off)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/11/Dr-Mohammd-Farhad-Medicine.jpg?fit=500%2C500&ssl=1",
+    "category": "Physical Medicine"
+  },
+  {
+    "name": "Dr. M. S. Hasan",
+    "qualifications": ["MBBS", "FCPS (Physical Medicine)", "DPM"],
+    "position": "Consultant, Physical Medicine",
+    "room_no": "506",
+    "serial": "Call our Hotline",
+    "time": "Sat to Thu (6pm to 9pm) (Mon & Fri OFF)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrIstiakAhmed-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Physical Medicine"
+  },
+  {
+    "name": "Dr. S. R. Faruque",
+    "qualifications": [
+      "MBBS",
+      "MD (Physical Medicine)",
+      "Diploma in Sports Medicine"
+    ],
+    "position": "Consultant, Physical Medicine, CMC",
+    "room_no": "507",
+    "serial": "Call our hotline",
+    "time": "6 pm -9 pm (Thursday Off)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2021/02/Dr-Sumon-Sarkar.jpg?fit=600%2C600&ssl=1",
+    "category": "Physical Medicine"
+  },
+  {
+    "name": "Dr. A. S. M. Zahed",
+    "qualifications": ["MBBS", "FCPS (Medicine)"],
+    "position": "Associate Professor, Medicine",
+    "institution": "Chattogram Medical College",
+    "room_no": "308",
+    "serial": "Call our hotline",
+    "time": "5.30 pm to 8 pm (Only Sun & Wed)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrASMJahed.jpg?fit=600%2C600&ssl=1",
+    "category": "Medicine"
+  },
+  {
+    "name": "Dr. Mohammad Moinuddin Chowdhury",
+    "qualifications": ["MBBS", "FCPS (Medicine)"],
+    "position": "Assistant Professor, CMCH",
+    "room_no": "303",
+    "serial": "Call our Hotline",
+    "time": "5pm to 9pm (Sat, Mon, Wed)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrMainuddin-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Medicine"
+  },
+  {
+    "name": "Dr. Mohammad Rezaul Karim",
+    "qualifications": ["MBBS", "BCS (Health)", "MD (Internal Medicine)"],
+    "position": "Assistant Professor, Medicine",
+    "room_no": "227",
+    "serial": "Call our Hotline",
+    "time": "5pm to 6pm (Sat, Mon, Thurs)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrRezaulKarim-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Medicine"
+  },
+  {
+    "name": "Dr. Saifuddin Mahmud",
+    "qualifications": ["MBBS", "BCS (Health)", "FCPS (Medicine)"],
+    "position": "Consultant, Medicine",
+    "room_no": "320",
+    "serial": "Call our Hotline",
+    "time": "6.30pm to 9pm (Sat to Thu)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrSaifuddinMahmud-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Medicine"
+  },
+  {
+    "name": "Dr Mohammad Farhad",
+    "qualifications": ["MBBS (SSMC)", "MRCP (London)"],
+    "position": "Consultant, Medicine",
+    "room_no": "207",
+    "serial": "01323-934631",
+    "time": "3pm to 6pm (Fri off)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/11/Dr-Mohammd-Farhad-Medicine.jpg?fit=500%2C500&ssl=1",
+    "category": "Medicine"
+  },
+  {
+    "name": "Dr. Istiak Ahmad",
+    "qualifications": [
+      "MBBS",
+      "BCS (Health)",
+      "MCPS",
+      "FCPS (Medicine)",
+      "MACP (USA)"
+    ],
+    "position": "Consultant, Medicine",
+    "room_no": "306",
+    "serial": "Call our Hotline",
+    "time": "Sat to Thu (6.30pm to 9pm) (Mon & Fri OFF)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrIstiakAhmed-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Medicine"
+  },
+  {
+    "name": "Dr. Suman Sarkar",
+    "qualifications": ["MBBS", "BCS (Health)", "FCPS (Medicine)"],
+    "position": "Consultant, Medicine, CMC",
+    "room_no": "324",
+    "serial": "Call our hotline",
+    "time": "6 pm -9 pm (Thursday Off)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2021/02/Dr-Sumon-Sarkar.jpg?fit=600%2C600&ssl=1",
+    "category": "Medicine"
+  },
+
+  {
+    "name": "Dr. A. R. Islam",
+    "qualifications": ["MBBS", "MD (Nephrology)"],
+    "position": "Consultant, Nephrology",
+    "institution": "Chattogram Medical College",
+    "room_no": "601",
+    "serial": "Call our hotline",
+    "time": "4.00 pm to 7.00 pm (Only Tue & Thu)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrASMJahed.jpg?fit=600%2C600&ssl=1",
+    "category": "Nephrology"
+  },
+  {
+    "name": "Dr. Mohammad Zaman",
+    "qualifications": ["MBBS", "FCPS (Nephrology)"],
+    "position": "Associate Professor, Nephrology",
+    "institution": "CMCH",
+    "room_no": "602",
+    "serial": "Call our Hotline",
+    "time": "5pm to 8pm (Mon, Wed, Sat)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrMainuddin-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Nephrology"
+  },
+  {
+    "name": "Dr. Rezaul Karim",
+    "qualifications": ["MBBS", "MD (Nephrology)", "DNB (Nephrology)"],
+    "position": "Assistant Professor, Nephrology",
+    "room_no": "603",
+    "serial": "Call our Hotline",
+    "time": "5pm to 7pm (Mon, Wed, Fri)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrRezaulKarim-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Nephrology"
+  },
+  {
+    "name": "Dr. Saifuddin Chowdhury",
+    "qualifications": ["MBBS", "MD (Nephrology)", "FCPS (Nephrology)"],
+    "position": "Consultant, Nephrology",
+    "room_no": "604",
+    "serial": "Call our Hotline",
+    "time": "6pm to 9pm (Sun to Thu)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrSaifuddinMahmud-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Nephrology"
+  },
+  {
+    "name": "Dr. A. F. Nizam",
+    "qualifications": [
+      "MBBS",
+      "MD (Nephrology)",
+      "Fellowship in Kidney Diseases"
+    ],
+    "position": "Consultant, Nephrology",
+    "room_no": "605",
+    "serial": "01323-934631",
+    "time": "3pm to 6pm (Fri off)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/11/Dr-Mohammd-Farhad-Medicine.jpg?fit=500%2C500&ssl=1",
+    "category": "Nephrology"
+  },
+  {
+    "name": "Dr. M. S. Hasan",
+    "qualifications": ["MBBS", "FCPS (Nephrology)", "DNB (Nephrology)"],
+    "position": "Consultant, Nephrology",
+    "room_no": "606",
+    "serial": "Call our Hotline",
+    "time": "Sat to Thu (6pm to 9pm) (Mon & Fri OFF)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrIstiakAhmed-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Nephrology"
+  },
+  {
+    "name": "Dr. S. R. Faruque",
+    "qualifications": [
+      "MBBS",
+      "MD (Nephrology)",
+      "Diploma in Kidney Transplant"
+    ],
+    "position": "Consultant, Nephrology, CMC",
+    "room_no": "607",
+    "serial": "Call our hotline",
+    "time": "6 pm -9 pm (Thursday Off)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2021/02/Dr-Sumon-Sarkar.jpg?fit=600%2C600&ssl=1",
+    "category": "Nephrology"
+  },
+
+  {
+    "name": "Dr. A. K. M. Mahfuzul Alam",
+    "qualifications": ["MBBS", "FCPS (Orthopedics)"],
+    "position": "Consultant, Orthopedics",
+    "institution": "Chattogram Medical College",
+    "room_no": "401",
+    "serial": "Call our hotline",
+    "time": "4.30 pm to 7.30 pm (Only Sat & Tue)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrASMJahed.jpg?fit=600%2C600&ssl=1",
+    "category": "Orthopedics"
+  },
+  {
+    "name": "Dr. Mohammad Abdullah",
+    "qualifications": ["MBBS", "D.Ortho"],
+    "position": "Associate Professor, Orthopedics",
+    "institution": "CMCH",
+    "room_no": "402",
+    "serial": "Call our Hotline",
+    "time": "6pm to 9pm (Sun, Tue, Thurs)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrMainuddin-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Orthopedics"
+  },
+  {
+    "name": "Dr. M. R. Sayed",
+    "qualifications": ["MBBS", "MS (Orthopedics)", "DNB (Orthopedics)"],
+    "position": "Assistant Professor, Orthopedics",
+    "room_no": "403",
+    "serial": "Call our Hotline",
+    "time": "5pm to 8pm (Sat, Mon, Wed)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrRezaulKarim-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Orthopedics"
+  },
+  {
+    "name": "Dr. M. H. Munir",
+    "qualifications": ["MBBS", "FCPS (Orthopedics)", "MS (Trauma Surgery)"],
+    "position": "Consultant, Orthopedics",
+    "room_no": "404",
+    "serial": "Call our Hotline",
+    "time": "7pm to 9pm (Sat to Thu)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrSaifuddinMahmud-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Orthopedics"
+  },
+  {
+    "name": "Dr. A. H. Raza",
+    "qualifications": [
+      "MBBS (DU)",
+      "MS (Orthopedics)",
+      "Fellowship in Joint Replacement"
+    ],
+    "position": "Consultant, Orthopedics",
+    "room_no": "405",
+    "serial": "01323-934631",
+    "time": "3pm to 6pm (Fri off)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/11/Dr-Mohammd-Farhad-Medicine.jpg?fit=500%2C500&ssl=1",
+    "category": "Orthopedics"
+  },
+  {
+    "name": "Dr. M. K. Shams",
+    "qualifications": [
+      "MBBS",
+      "FCPS (Orthopedics)",
+      "Fellowship in Spine Surgery"
+    ],
+    "position": "Consultant, Orthopedics",
+    "room_no": "406",
+    "serial": "Call our Hotline",
+    "time": "Sat to Thu (6pm to 9pm) (Mon & Fri OFF)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrIstiakAhmed-Medicine.jpg?fit=600%2C600&ssl=1",
+    "category": "Orthopedics"
+  },
+  {
+    "name": "Dr. S. S. Faruque",
+    "qualifications": ["MBBS", "D.Ortho", "MS (Orthopedics)"],
+    "position": "Consultant, Orthopedics, CMC",
+    "room_no": "407",
+    "serial": "Call our hotline",
+    "time": "6 pm -9 pm (Thursday Off)",
+    "image": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2021/02/Dr-Sumon-Sarkar.jpg?fit=600%2C600&ssl=1",
+    "category": "Orthopedics"
+  }
+]
