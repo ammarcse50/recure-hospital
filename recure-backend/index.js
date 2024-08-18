@@ -3,6 +3,7 @@ const { default: mongoose } = require("mongoose");
 
 const port = 5000;
 const appointmentRoute = require("./routes/appointmentRoute.js")
+const userRoute = require('./routes/usersRoute.js')
 const app = express();
 app.use(express.json()); 
 
@@ -11,7 +12,7 @@ app.get("/", async (req, res) => {
 });
 
  app.use("/api/appointment", appointmentRoute)
-
+ app.use("/api/user", userRoute)
 const url = `mongodb+srv://safara:safara@cluster0.t9lecvs.mongodb.net/recure-API?retryWrites=true&w=majority&appName=Cluster0`;
 mongoose
   .connect(url)
